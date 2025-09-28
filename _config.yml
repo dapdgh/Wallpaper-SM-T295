@@ -1,0 +1,18 @@
+title: Wallpaper SM-T295
+description: "A collection of wallpapers for Samsung Galaxy Tab SM-T295. Download and enjoy high-quality backgrounds."
+theme: minimal
+
+# Logo (can be Google Drive or any image URL)
+logo: "https://drive.google.com/uc?export=view&id=YOUR_IMAGE_ID"
+# Example for other URLs:
+# logo: "https://example.com/path/to/logo.png"
+
+# Show download button/section
+show_download: true
+
+# Optional navigation links
+nav:
+  - title: "Download"
+    url: "/download"
+
+# You may add more configuration options supported by the minimal theme as needed.
